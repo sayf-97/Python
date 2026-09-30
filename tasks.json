@@ -1,10 +1,14 @@
 [
     {
         "description": "Buy groceries",
-        "status": "pending"
+        "status": "completed",
+        "priority": "medium",
+        "due_date": null
     },
     {
         "description": "Learn python",
-        "status": "pending"
+        "status": "pending",
+        "priority": "high",
+        "due_date": "2026-10-01"
     }
 ]
